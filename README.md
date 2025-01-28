@@ -42,13 +42,13 @@ Click the button below to download the script:
 
 ## 📚 Documentation
 
-| Feature          | Description                       | Script Name          |
-|------------------|-----------------------------------|----------------------|
-| Auto-Farming     | Automates the farming process     | `auto-farm.lua`      |
-| Auto-Combat      | Automatically fights enemies      | `auto-combat.lua`    |
-| Fruit Sniper     | Snipes rare fruits automatically  | `fruit-sniper.lua`   |
-| Teleportation    | Fast travel between locations     | `teleport.lua`       |
-| Auto-Collect     | Gathers resources automatically   | `auto-collect.lua`   |
+| Feature          | Description                       |
+|------------------|-----------------------------------
+| Auto-Farming     | Automates the farming process     
+| Auto-Combat      | Automatically fights enemies      
+| Fruit Sniper     | Snipes rare fruits automatically  
+| Teleportation    | Fast travel between locations    
+| Auto-Collect     | Gathers resources automatically  
 
 ---
 
